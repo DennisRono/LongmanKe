@@ -1,11 +1,11 @@
 <h1>Hey, 👋 I am Mburu Njoroge  </h1>
 <p>I am a full-stack developer who enjoy writing computer programs ✌</p>
 
-<!-- <a align ="center" href="mburunjoroge.netlify.com">
+<!-- <a align ="center" href="https://mburunjoroge.netlify.app/">
     <img alt="Finn Neron's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DennisRono&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 </a> -->
 
-<a href="mburunjoroge.netlify.com">
+<a href="https://mburunjoroge.netlify.app/">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=LONGMANKE&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark" />&nbsp;
  <!-- wi*quL3fcV -->
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LONGMANKE&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&theme=dark" /></a>
