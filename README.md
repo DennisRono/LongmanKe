@@ -19,9 +19,8 @@
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 
 
-  
-<!--  <hr>
- <a href="https://denniskibet.com/kibet">
+  <hr>
+ <a href="https://mburunjoroge.netlify.app/">
  <img src="./img/portfolio.png" align="center" height="290" width="auto" margin="auto">
  </a> 
  
