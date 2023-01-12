@@ -1,7 +1,7 @@
 <h1>Hey, 👋 I am Mburu Njoroge  </h1>
 <p>I am a full-stack developer who enjoy writing computer programs ✌</p>
 
-<!-- <a align ="center" href="">
+<!-- <a align ="center" href="https://mburunjoroge.netlify.app/">
     <img alt="Finn Neron's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DennisRono&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 </a> -->
 
