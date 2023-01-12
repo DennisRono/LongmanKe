@@ -1,6 +1,6 @@
 <h1>Hey, 👋 I am Mburu Njoroge  </h1>
 <p>I am a full-stack developer who enjoy writing computer programs ✌</p>
-
+<!-- 
 <!-- <a align ="center" href="https://mburunjoroge.netlify.app/">
     <img alt="Finn Neron's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DennisRono&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 </a> -->
@@ -12,7 +12,7 @@
 <!--   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LONGMANKE&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&theme=dark" /></a>
  -->
 
-<!-- ![Mburu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LONGMANKE&show_icons=true&theme=dark) -->
+<!-- ![Mburu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LONGMANKE&show_icons=true&theme=dark) --> -->
 
 <!-- <h2>About Me</h2>
 <h4>Developer & Designer</h4>
