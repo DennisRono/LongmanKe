@@ -7,7 +7,7 @@
 <p>
   Currently, my main focus is finding reliable solutions for software issues. I am fluent in English and accustomed to working with cross-cultural, global terms.
 </p>
-<p>I am currently a final year student at Machakos university studying Computer science.</p> -->
+<p>I am currently a final year student at Machakos university studying Computer science.</p> 
 <h2>🚀 Some Tools I Use</h2>
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
